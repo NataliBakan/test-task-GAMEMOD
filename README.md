@@ -12,8 +12,8 @@ Run the server in the development mode.
 
 ### `npm start`
 
-Do the same in the client repository
+Do the same in the client repository using another terminal
 
-### `cd ../client`
+### `cd client`
 ### `npm install`
 ### `npm start`
