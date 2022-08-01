@@ -1,0 +1,906 @@
+{
+  "winning_team": [
+    {
+      "name": "Arsena Lapichak",
+      "scores": 1058,
+      "isAlive": false,
+      "kills": 41,
+      "deaths": 8,
+      "isFriend": false,
+      "id": "1g9aoeaov00a21bea589c8b"
+    },
+    {
+      "name": "Eileen Rivera",
+      "scores": 5618,
+      "isAlive": true,
+      "kills": 6,
+      "deaths": 12,
+      "isFriend": false,
+      "id": "1g9aoeaov06fb552e4ce73e"
+    },
+    {
+      "name": "Liana Perrin",
+      "scores": 2613,
+      "isAlive": true,
+      "kills": 42,
+      "deaths": 27,
+      "isFriend": false,
+      "id": "1g9aoeaov0a3db6e534fe1b"
+    },
+    {
+      "name": "Clara Martin",
+      "scores": 9720,
+      "isAlive": true,
+      "kills": 0,
+      "deaths": 43,
+      "isFriend": false,
+      "id": "1g9aoeaov0580feb35e3527"
+    },
+    {
+      "name": "Beau Jackson",
+      "scores": 8823,
+      "isAlive": false,
+      "kills": 5,
+      "deaths": 49,
+      "isFriend": true,
+      "id": "1g9aoeaov0fe64f1b9d2b25"
+    },
+    {
+      "name": "Deeksha Anand",
+      "scores": 4495,
+      "isAlive": true,
+      "kills": 33,
+      "deaths": 35,
+      "isFriend": true,
+      "id": "1g9aoeaov0722cac1f0898c"
+    },
+    {
+      "name": "Roberto Camacho",
+      "scores": 880,
+      "isAlive": true,
+      "kills": 44,
+      "deaths": 40,
+      "isFriend": true,
+      "id": "1g9aoeaov03767b6ace1918"
+    },
+    {
+      "name": "Frankie Chavez",
+      "scores": 7809,
+      "isAlive": false,
+      "kills": 40,
+      "deaths": 19,
+      "isFriend": true,
+      "id": "1g9aoeaov018b43774dfbec"
+    },
+    {
+      "name": "Batur Orbay",
+      "scores": 391,
+      "isAlive": false,
+      "kills": 7,
+      "deaths": 22,
+      "isFriend": true,
+      "id": "1g9aoeaov00924655264188"
+    },
+    {
+      "name": "Carlos Ramírez",
+      "scores": 5551,
+      "isAlive": true,
+      "kills": 23,
+      "deaths": 6,
+      "isFriend": false,
+      "id": "1g9aoeaov0332f7ab21b316"
+    },
+    {
+      "name": "Lara Masson",
+      "scores": 9607,
+      "isAlive": false,
+      "kills": 1,
+      "deaths": 22,
+      "isFriend": false,
+      "id": "1g9aoeaov089e371830a47f"
+    },
+    {
+      "name": "Neea Latvala",
+      "scores": 5909,
+      "isAlive": true,
+      "kills": 49,
+      "deaths": 45,
+      "isFriend": false,
+      "id": "1g9aoeaov06db63917ea771"
+    },
+    {
+      "name": "Steven Williamson",
+      "scores": 1087,
+      "isAlive": true,
+      "kills": 8,
+      "deaths": 29,
+      "isFriend": true,
+      "id": "1g9aoeaov0c0486660ed273"
+    },
+    {
+      "name": "Don. Jackson",
+      "scores": 8524,
+      "isAlive": false,
+      "kills": 30,
+      "deaths": 11,
+      "isFriend": true,
+      "id": "1g9aoeaov03e640bc2661ea"
+    },
+    {
+      "name": "Duco Hafkamp",
+      "scores": 4174,
+      "isAlive": false,
+      "kills": 2,
+      "deaths": 6,
+      "isFriend": true,
+      "id": "1g9aoeaov05473c541e7a4c"
+    },
+    {
+      "name": "Alejandra Luevano",
+      "scores": 3336,
+      "isAlive": false,
+      "kills": 44,
+      "deaths": 13,
+      "isFriend": true,
+      "id": "1g9aoeaov06ac0e3d412b12"
+    },
+    {
+      "name": "Borka Filipović",
+      "scores": 1884,
+      "isAlive": false,
+      "kills": 45,
+      "deaths": 16,
+      "isFriend": true,
+      "id": "1g9aoeaov085f6a8cec4296"
+    },
+    {
+      "name": "Henna Van Enk",
+      "scores": 4869,
+      "isAlive": true,
+      "kills": 48,
+      "deaths": 48,
+      "isFriend": false,
+      "id": "1g9aoeaov065ee6f3917a42"
+    },
+    {
+      "name": "Matthieu Faure",
+      "scores": 850,
+      "isAlive": false,
+      "kills": 39,
+      "deaths": 22,
+      "isFriend": false,
+      "id": "1g9aoeaov0c89f6bda2bc78"
+    },
+    {
+      "name": "Pedro Campos",
+      "scores": 3267,
+      "isAlive": false,
+      "kills": 30,
+      "deaths": 37,
+      "isFriend": true,
+      "id": "1g9aoeaov03f8e4cb689032"
+    },
+    {
+      "name": "Flynn Martin",
+      "scores": 9190,
+      "isAlive": false,
+      "kills": 33,
+      "deaths": 36,
+      "isFriend": false,
+      "id": "1g9aoeaov028ce2fda0a36c"
+    },
+    {
+      "name": "Clara Petersen",
+      "scores": 6253,
+      "isAlive": true,
+      "kills": 27,
+      "deaths": 23,
+      "isFriend": false,
+      "id": "1g9aoeaov0e8e335376aa3d"
+    },
+    {
+      "name": "Dagmar Menard",
+      "scores": 969,
+      "isAlive": true,
+      "kills": 33,
+      "deaths": 5,
+      "isFriend": false,
+      "id": "1g9aoeaov0d3e7d1fd5f65c"
+    },
+    {
+      "name": "Kornelia Sørlie",
+      "scores": 2518,
+      "isAlive": true,
+      "kills": 35,
+      "deaths": 0,
+      "isFriend": true,
+      "id": "1g9aoeaov09a21a8265095f"
+    },
+    {
+      "name": "Adrião Ferreira",
+      "scores": 8771,
+      "isAlive": true,
+      "kills": 16,
+      "deaths": 2,
+      "isFriend": false,
+      "id": "1g9aoeaov02f6a606a04d89"
+    },
+    {
+      "name": "Vukota Stefanović",
+      "scores": 2912,
+      "isAlive": false,
+      "kills": 13,
+      "deaths": 29,
+      "isFriend": true,
+      "id": "1g9aoeaov03822bb69d8c77"
+    },
+    {
+      "name": "Charlotte Claire",
+      "scores": 7433,
+      "isAlive": false,
+      "kills": 47,
+      "deaths": 23,
+      "isFriend": true,
+      "id": "1g9aoeaov0203abb475852a"
+    },
+    {
+      "name": "Eggert Nebel",
+      "scores": 1133,
+      "isAlive": false,
+      "kills": 4,
+      "deaths": 45,
+      "isFriend": true,
+      "id": "1g9aoeaov061c34ca1500e"
+    },
+    {
+      "name": "Motrya Pisarchuk",
+      "scores": 2136,
+      "isAlive": true,
+      "kills": 41,
+      "deaths": 0,
+      "isFriend": true,
+      "id": "1g9aoeaov09ff6c65cc2e16"
+    },
+    {
+      "name": "Audrey Rose",
+      "scores": 2273,
+      "isAlive": true,
+      "kills": 35,
+      "deaths": 4,
+      "isFriend": false,
+      "id": "1g9aoeaov0c743010fed208"
+    },
+    {
+      "name": "Frederik Christiansen",
+      "scores": 4405,
+      "isAlive": true,
+      "kills": 36,
+      "deaths": 27,
+      "isFriend": true,
+      "id": "1g9aoeaov0368e226add377"
+    },
+    {
+      "name": "Victoria Jensen",
+      "scores": 7916,
+      "isAlive": false,
+      "kills": 29,
+      "deaths": 0,
+      "isFriend": false,
+      "id": "1g9aoeaov07f2108c712e13"
+    },
+    {
+      "name": "Malone Morel",
+      "scores": 6654,
+      "isAlive": true,
+      "kills": 39,
+      "deaths": 4,
+      "isFriend": false,
+      "id": "1g9aoeaov00d37d4839157"
+    },
+    {
+      "name": "Väinö Peltonen",
+      "scores": 2519,
+      "isAlive": false,
+      "kills": 4,
+      "deaths": 11,
+      "isFriend": false,
+      "id": "1g9aoeaov0345f4adb4315c"
+    },
+    {
+      "name": "زهرا سلطانی نژاد",
+      "scores": 140,
+      "isAlive": true,
+      "kills": 42,
+      "deaths": 17,
+      "isFriend": true,
+      "id": "1g9aoeaov0a1aca2863f568"
+    },
+    {
+      "name": "Zorina",
+      "scores": 3040,
+      "isAlive": false,
+      "kills": 27,
+      "deaths": 15,
+      "isFriend": false,
+      "id": "1g9aoeaov0c2ae6917a14f2"
+    },
+    {
+      "name": "Raymund Erhard",
+      "scores": 1592,
+      "isAlive": true,
+      "kills": 22,
+      "deaths": 15,
+      "isFriend": true,
+      "id": "1g9aoeaov05864f39bffb6a"
+    },
+    {
+      "name": "Mikkel Johansen",
+      "scores": 6742,
+      "isAlive": true,
+      "kills": 45,
+      "deaths": 2,
+      "isFriend": true,
+      "id": "1g9aoeaov0b0ec3e4980bc5"
+    },
+    {
+      "name": "Kasper Larsen",
+      "scores": 4586,
+      "isAlive": true,
+      "kills": 20,
+      "deaths": 0,
+      "isFriend": true,
+      "id": "1g9aoeaov0d4f7087bbb891"
+    },
+    {
+      "name": "Leta Bennett",
+      "scores": 1062,
+      "isAlive": false,
+      "kills": 49,
+      "deaths": 20,
+      "isFriend": true,
+      "id": "1g9aoeaov094b18e107d5f1"
+    },
+    {
+      "name": "Aleksije Ivanić",
+      "scores": 7765,
+      "isAlive": false,
+      "kills": 1,
+      "deaths": 1,
+      "isFriend": true,
+      "id": "1g9aoeaov0a2cefc03ca4d"
+    },
+    {
+      "name": "Melissa Hart",
+      "scores": 3667,
+      "isAlive": false,
+      "kills": 37,
+      "deaths": 3,
+      "isFriend": false,
+      "id": "1g9aoeaov0ba067557dbcb5"
+    },
+    {
+      "name": "Ece Özdenak",
+      "scores": 7329,
+      "isAlive": false,
+      "kills": 2,
+      "deaths": 0,
+      "isFriend": true,
+      "id": "1g9aoeaov0024a03e01f821"
+    },
+    {
+      "name": "Justin Warren",
+      "scores": 5489,
+      "isAlive": false,
+      "kills": 24,
+      "deaths": 17,
+      "isFriend": false,
+      "id": "1g9aoeaov0bde1f376c57cf"
+    },
+    {
+      "name": "Brooklyn Lewis",
+      "scores": 3132,
+      "isAlive": false,
+      "kills": 7,
+      "deaths": 3,
+      "isFriend": true,
+      "id": "1g9aoeaov02b636fe1fbf37"
+    },
+    {
+      "name": "Jesus Morris",
+      "scores": 6594,
+      "isAlive": true,
+      "kills": 22,
+      "deaths": 9,
+      "isFriend": true,
+      "id": "1g9aoeaov036234516e6e75"
+    },
+    {
+      "name": "Adelen Bruaset",
+      "scores": 9459,
+      "isAlive": true,
+      "kills": 43,
+      "deaths": 39,
+      "isFriend": true,
+      "id": "1g9aoeaov073cc44d56d157"
+    },
+    {
+      "name": "Florence Baker",
+      "scores": 9509,
+      "isAlive": true,
+      "kills": 32,
+      "deaths": 8,
+      "isFriend": true,
+      "id": "1g9aoeaov0c2f0d6b7e271"
+    },
+    {
+      "name": "Blaise Carpentier",
+      "scores": 4163,
+      "isAlive": true,
+      "kills": 7,
+      "deaths": 26,
+      "isFriend": false,
+      "id": "1g9aoeaov080a1f06c7e109"
+    },
+    {
+      "name": "Isla Lee",
+      "scores": 2110,
+      "isAlive": true,
+      "kills": 30,
+      "deaths": 42,
+      "isFriend": false,
+      "id": "1g9aoeaov013d15bab35c3"
+    }
+  ],
+  "loser_team": [
+    {
+      "name": "Lily Gibson",
+      "scores": 3628,
+      "isAlive": false,
+      "kills": 34,
+      "deaths": 25,
+      "isFriend": true,
+      "id": "1g9aoeaov0d90411ebd0d0b"
+    },
+    {
+      "name": "Cassandre Colin",
+      "scores": 4791,
+      "isAlive": false,
+      "kills": 37,
+      "deaths": 18,
+      "isFriend": true,
+      "id": "1g9aoeaov0fcc6908d8be6"
+    },
+    {
+      "name": "Mehmet Akyürek",
+      "scores": 4681,
+      "isAlive": true,
+      "kills": 3,
+      "deaths": 39,
+      "isFriend": false,
+      "id": "1g9aoeaov08783505ccdb72"
+    },
+    {
+      "name": "Victoria Benítez",
+      "scores": 5356,
+      "isAlive": true,
+      "kills": 27,
+      "deaths": 41,
+      "isFriend": true,
+      "id": "1g9aoeaov0366d88177998d"
+    },
+    {
+      "name": "Harvey Chambers",
+      "scores": 4500,
+      "isAlive": true,
+      "kills": 34,
+      "deaths": 20,
+      "isFriend": true,
+      "id": "1g9aoeaov021de476dafc1e"
+    },
+    {
+      "name": "BlankaWörner",
+      "scores": 3086,
+      "isAlive": false,
+      "kills": 2,
+      "deaths": 10,
+      "isFriend": false,
+      "id": "1g9aoeaov0f7b66db2bf557"
+    },
+    {
+      "name": "Kilian Lefevre",
+      "scores": 1239,
+      "isAlive": false,
+      "kills": 2,
+      "deaths": 23,
+      "isFriend": false,
+      "id": "1g9aoeaov08eb403e890256"
+    },
+    {
+      "name": "Tracy Baker",
+      "scores": 1233,
+      "isAlive": false,
+      "kills": 39,
+      "deaths": 48,
+      "isFriend": true,
+      "id": "1g9aoeaov07e44045f70c33"
+    },
+    {
+      "name": "Elisabeth Novaes",
+      "scores": 8601,
+      "isAlive": false,
+      "kills": 49,
+      "deaths": 0,
+      "isFriend": false,
+      "id": "1g9aoeaov0de5b0d7029a8b"
+    },
+    {
+      "name": "Stanislava Tripković",
+      "scores": 8098,
+      "isAlive": true,
+      "kills": 38,
+      "deaths": 4,
+      "isFriend": false,
+      "id": "1g9aoeaov0fe5f0bfd69309"
+    },
+    {
+      "name": "Kristijan Abramović",
+      "scores": 7283,
+      "isAlive": false,
+      "kills": 37,
+      "deaths": 28,
+      "isFriend": false,
+      "id": "1g9aoeaov046bc3d37612bd"
+    },
+    {
+      "name": "Galina Rađen",
+      "scores": 5514,
+      "isAlive": false,
+      "kills": 36,
+      "deaths": 49,
+      "isFriend": false,
+      "id": "1g9aoeaov0edc48076469f7"
+    },
+    {
+      "name": "Eleonora Simić",
+      "scores": 7724,
+      "isAlive": true,
+      "kills": 5,
+      "deaths": 24,
+      "isFriend": true,
+      "id": "1g9aoeaov0199c5d432d1b6"
+    },
+    {
+      "name": "Natalie Chavez",
+      "scores": 8082,
+      "isAlive": false,
+      "kills": 17,
+      "deaths": 23,
+      "isFriend": true,
+      "id": "1g9aoeaov0129c0d579419a"
+    },
+    {
+      "name": "Zoe Bowman",
+      "scores": 5028,
+      "isAlive": false,
+      "kills": 38,
+      "deaths": 29,
+      "isFriend": true,
+      "id": "1g9aoeaov0017c021a3baa2"
+    },
+    {
+      "name": "Nuray Wahl",
+      "scores": 9288,
+      "isAlive": true,
+      "kills": 41,
+      "deaths": 2,
+      "isFriend": true,
+      "id": "1g9aoeaov0cc6780b94f796"
+    },
+    {
+      "name": "دینا زارعی",
+      "scores": 7151,
+      "isAlive": false,
+      "kills": 20,
+      "deaths": 11,
+      "isFriend": false,
+      "id": "1g9aoeaov098f10d2228ef2"
+    },
+    {
+      "name": "Anett Teuber",
+      "scores": 131,
+      "isAlive": false,
+      "kills": 44,
+      "deaths": 3,
+      "isFriend": true,
+      "id": "1g9aoeaov05d87ed2eec6b9"
+    },
+    {
+      "name": "Hazel Wood",
+      "scores": 5252,
+      "isAlive": false,
+      "kills": 7,
+      "deaths": 26,
+      "isFriend": true,
+      "id": "1g9aoeaov025f802e27b26d"
+    },
+    {
+      "name": "Liva Hansen",
+      "scores": 4741,
+      "isAlive": false,
+      "kills": 4,
+      "deaths": 38,
+      "isFriend": false,
+      "id": "1g9aoeaov0496781de07c51"
+    },
+    {
+      "name": "Fidel Concepción",
+      "scores": 6027,
+      "isAlive": true,
+      "kills": 34,
+      "deaths": 28,
+      "isFriend": true,
+      "id": "1g9aoeaov06df9e46e838a6"
+    },
+    {
+      "name": "Audrey1234",
+      "scores": 9500,
+      "isAlive": true,
+      "kills": 27,
+      "deaths": 42,
+      "isFriend": false,
+      "id": "1g9aoeaov095a284e38127"
+    },
+    {
+      "name": "Bérénice Roussel",
+      "scores": 9320,
+      "isAlive": false,
+      "kills": 12,
+      "deaths": 10,
+      "isFriend": false,
+      "id": "1g9aoeaov04c1de2831e29e"
+    },
+    {
+      "name": "Troy Byrd",
+      "scores": 7468,
+      "isAlive": false,
+      "kills": 20,
+      "deaths": 47,
+      "isFriend": false,
+      "id": "1g9aoeaov0fdc9287a4828d"
+    },
+    {
+      "name": "Pat Miller",
+      "scores": 2608,
+      "isAlive": false,
+      "kills": 26,
+      "deaths": 12,
+      "isFriend": false,
+      "id": "1g9aoeaov0ba9de7d23938d"
+    },
+    {
+      "name": "Mrs. JoJo",
+      "scores": 8171,
+      "isAlive": true,
+      "kills": 41,
+      "deaths": 10,
+      "isFriend": false,
+      "id": "1g9aoeaov023052ab8f6808"
+    },
+    {
+      "name": "Ayşe Denkel",
+      "scores": 4063,
+      "isAlive": false,
+      "kills": 15,
+      "deaths": 29,
+      "isFriend": true,
+      "id": "1g9aoeaov08d93794392def"
+    },
+    {
+      "name": "Sebastian Madsen",
+      "scores": 4055,
+      "isAlive": false,
+      "kills": 19,
+      "deaths": 21,
+      "isFriend": true,
+      "id": "1g9aoeaov0c5f42c5da11d6"
+    },
+    {
+      "name": "Hunter Miller",
+      "scores": 844,
+      "isAlive": true,
+      "kills": 33,
+      "deaths": 10,
+      "isFriend": true,
+      "id": "1g9aoeaov09a5ed86199d36"
+    },
+    {
+      "name": "Melike Uluhan",
+      "scores": 327,
+      "isAlive": true,
+      "kills": 23,
+      "deaths": 28,
+      "isFriend": true,
+      "id": "1g9aoeaov08cb4b17c75bc6"
+    },
+    {
+      "name": "Javier Castillo",
+      "scores": 9660,
+      "isAlive": true,
+      "kills": 0,
+      "deaths": 6,
+      "isFriend": true,
+      "id": "1g9aoeaov0d54dced2fe6cf"
+    },
+    {
+      "name": "Félix Vicente",
+      "scores": 1616,
+      "isAlive": true,
+      "kills": 28,
+      "deaths": 17,
+      "isFriend": false,
+      "id": "1g9aoeaov0d6ff7300c70b4"
+    },
+    {
+      "name": "Julius Hamalainen",
+      "scores": 3857,
+      "isAlive": false,
+      "kills": 34,
+      "deaths": 37,
+      "isFriend": true,
+      "id": "1g9aoeaov0b6e6c342b1fa8"
+    },
+    {
+      "name": "Uncle Sam",
+      "scores": 7284,
+      "isAlive": true,
+      "kills": 16,
+      "deaths": 14,
+      "isFriend": false,
+      "id": "1g9aoeaov01a06a46e8186b"
+    },
+    {
+      "name": "Anielo da Conceição",
+      "scores": 8034,
+      "isAlive": false,
+      "kills": 25,
+      "deaths": 15,
+      "isFriend": false,
+      "id": "1g9aoeaov0c9d3394e68b82"
+    },
+    {
+      "name": "Elaine Silva",
+      "scores": 8165,
+      "isAlive": true,
+      "kills": 6,
+      "deaths": 12,
+      "isFriend": false,
+      "id": "1g9aoeaov02085e0308d4bd"
+    },
+    {
+      "name": "Elizabeth Walker",
+      "scores": 8527,
+      "isAlive": true,
+      "kills": 39,
+      "deaths": 22,
+      "isFriend": true,
+      "id": "1g9aoeaov05f9f2557db3ae"
+    },
+    {
+      "name": "Christian Rasmussen",
+      "scores": 8964,
+      "isAlive": false,
+      "kills": 11,
+      "deaths": 9,
+      "isFriend": true,
+      "id": "1g9aoeaov00dbf238e5e6bb"
+    },
+    {
+      "name": "Suzanna Kox",
+      "scores": 2278,
+      "isAlive": false,
+      "kills": 22,
+      "deaths": 17,
+      "isFriend": false,
+      "id": "1g9aoeaov06fd81e55e6ec1"
+    },
+    {
+      "name": "Jesús Camarillo",
+      "scores": 1911,
+      "isAlive": false,
+      "kills": 23,
+      "deaths": 9,
+      "isFriend": false,
+      "id": "1g9aoeaov090ae4143d4fa6"
+    },
+    {
+      "name": "Vincent Jones",
+      "scores": 6272,
+      "isAlive": true,
+      "kills": 13,
+      "deaths": 30,
+      "isFriend": true,
+      "id": "1g9aoeaov09fc5dfe2ec3c7"
+    },
+    {
+      "name": "Carina Sanchez",
+      "scores": 3370,
+      "isAlive": false,
+      "kills": 31,
+      "deaths": 9,
+      "isFriend": true,
+      "id": "1g9aoeaov02b3ff3c4b7416"
+    },
+    {
+      "name": "Beat Vidal",
+      "scores": 6114,
+      "isAlive": true,
+      "kills": 22,
+      "deaths": 33,
+      "isFriend": false,
+      "id": "1g9aoeaov0ca05484cf65f1"
+    },
+    {
+      "name": "Villads Thomsen",
+      "scores": 1619,
+      "isAlive": true,
+      "kills": 31,
+      "deaths": 4,
+      "isFriend": true,
+      "id": "1g9aoeaov00bb1612d1cff8"
+    },
+    {
+      "name": "Juho Makinen",
+      "scores": 6770,
+      "isAlive": true,
+      "kills": 34,
+      "deaths": 10,
+      "isFriend": true,
+      "id": "1g9aoeaov0e1d0864367704"
+    },
+    {
+      "name": "Ulrikke Berdal",
+      "scores": 434,
+      "isAlive": true,
+      "kills": 39,
+      "deaths": 11,
+      "isFriend": false,
+      "id": "1g9aoeaov00e1ea4f45bd7"
+    },
+    {
+      "name": "Ramiro Gutiérrez",
+      "scores": 6371,
+      "isAlive": true,
+      "kills": 27,
+      "deaths": 17,
+      "isFriend": true,
+      "id": "1g9aoeaov0aa0a8a5fc49cd"
+    },
+    {
+      "name": "Karla Bell",
+      "scores": 3519,
+      "isAlive": false,
+      "kills": 24,
+      "deaths": 2,
+      "isFriend": true,
+      "id": "1g9aoeaov07bfcabd1457e1"
+    },
+    {
+      "name": "Dominggus Verwaal",
+      "scores": 461,
+      "isAlive": false,
+      "kills": 33,
+      "deaths": 45,
+      "isFriend": true,
+      "id": "1g9aoeaov09389cf05a358b"
+    },
+    {
+      "name": "Dan Zwarts",
+      "scores": 9121,
+      "isAlive": false,
+      "kills": 40,
+      "deaths": 2,
+      "isFriend": false,
+      "id": "1g9aoeaov096f475f32d48b"
+    }
+  ]
+}

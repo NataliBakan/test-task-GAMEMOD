@@ -1,0 +1,86 @@
+.tooltipWrapper {
+    cursor: default;
+    width: 48%;
+    position: relative;
+
+    .content {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .tooltip {
+        visibility: hidden;
+        width: 100%;
+        height: 40px;
+        position: absolute;
+        top: -40px;
+        background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+        cursor: default;
+        font-size: 14px;
+
+        .content {
+            margin-top: 20px;
+
+            .total {
+                margin-left: 10px;
+
+                div {
+                    display: inline-block;
+                    width: 50px;
+                }
+            }
+
+            .friend {
+                padding-right: 10px;
+
+                .addFriendButton:hover {
+                    cursor: pointer;
+                    color: #808080;
+                }
+            }
+        }
+    }
+
+    &:hover .tooltip {
+        visibility: visible;
+    }
+
+    .player {
+        height: 25px;
+        border-bottom: 1px solid black;
+
+        .content {
+            height: 100%;
+
+            & > div {
+                display: flex;
+                align-items: center;
+                font-size: 14px;
+            }
+
+            .playerMainInfo {
+                overflow: hidden;
+                white-space: nowrap;
+
+                .playerStatus {
+                    width: 25px;
+                    display: flex;
+                    justify-content: center;
+                }
+
+                .playerName {
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                }
+            }
+
+            .playerScores {
+                padding-right: 10px;
+            }
+        }
+    }
+
+    &:hover .player {
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+}
